@@ -434,6 +434,7 @@ footer {
     }
     .optimization .optimization_text {
         font-size: 12px;
+        text-align: center;
     }
     .finish .finish_header {
         font-size: 18px;
